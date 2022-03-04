@@ -1,4 +1,4 @@
-class Veiculo {
+export default class Veiculo {
     public fabricante!: Fabricante
     public tipo!: Tipo
     public especie!: Especie

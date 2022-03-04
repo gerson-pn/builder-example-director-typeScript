@@ -1,5 +1,6 @@
 import Construtor from "../construtor/construtor";
 import ConstrutorVeiculo from "../construtor/construtorVeiculo";
+import Veiculo from "../modelo/veiculo";
 import Diretor from "./diretor";
 
 export default class DiretorMotocicleta implements Diretor {

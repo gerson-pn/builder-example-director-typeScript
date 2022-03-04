@@ -16,3 +16,4 @@ export default class DiretorBarco implements Diretor {
         return constructorBarco.obterObjeto();
     }
 }
+

@@ -1,5 +1,6 @@
 import Construtor from "../construtor/construtor";
 import ConstrutorVeiculo from "../construtor/construtorVeiculo";
+import Veiculo from "../modelo/veiculo";
 import Diretor from "./diretor";
 
 export default class DiretorAutomovel implements Diretor {
@@ -16,3 +17,4 @@ export default class DiretorAutomovel implements Diretor {
         return constructorAutomovel.obterObjeto();
     }
 }
+

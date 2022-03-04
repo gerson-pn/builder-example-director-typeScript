@@ -1,3 +1,4 @@
+import Veiculo from "../modelo/veiculo";
 import Construtor from "./construtor";
 
 export default class ConstrutorVeiculo implements Construtor {

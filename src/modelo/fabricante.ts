@@ -1,4 +1,4 @@
-enum Fabricante {
+export enum Fabricante {
     Desconhecido = 'Desconhecido',
     GeneralMotors = 'General Motors',
     Fiat = 'Fiat',

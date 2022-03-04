@@ -1,4 +1,4 @@
-enum Tipo {
+export enum Tipo {
     Automovel = 'Automovel',
     Caminhonete = 'Caminhonete',
     Caminhão = 'Caminhão',

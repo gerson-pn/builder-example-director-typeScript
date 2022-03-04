@@ -1,4 +1,4 @@
-enum Combustivel {
+export enum Combustivel {
     Alcool = 'Alcool',
     Gasolina = 'Gasolina',
     Diesel = 'Diesel',

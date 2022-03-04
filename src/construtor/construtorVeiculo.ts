@@ -1,3 +1,11 @@
+import { Carroceria } from "../modelo/carroceria";
+import { Categoria } from "../modelo/categoria";
+import { Combustivel } from "../modelo/combustivel";
+import { Especie } from "../modelo/especie";
+import { Fabricante } from "../modelo/fabricante";
+import { Freio } from "../modelo/freio";
+import { Refrigeracao } from "../modelo/refrigeracao";
+import { Tipo } from "../modelo/tipo";
 import Veiculo from "../modelo/veiculo";
 import Construtor from "./construtor";
 

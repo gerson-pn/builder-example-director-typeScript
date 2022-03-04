@@ -1,3 +1,12 @@
+import { Carroceria } from "./carroceria"
+import { Categoria } from "./categoria"
+import { Combustivel } from "./combustivel"
+import { Especie } from "./especie"
+import { Fabricante } from "./fabricante"
+import { Freio } from "./freio"
+import { Refrigeracao } from "./refrigeracao"
+import { Tipo } from "./tipo"
+
 export default class Veiculo {
     public fabricante!: Fabricante
     public tipo!: Tipo
